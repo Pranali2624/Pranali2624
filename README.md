@@ -1,12 +1,11 @@
-[![MasterHead](https://image.freepik.com/vetores-gratis/conceito-de-banner-da-web-de-desenvolvimento-front-end-melhoria-da-interface-do-site-ilustracao_277904-4428.jpg
+
+[![MasterHead](https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-2048x1024.jpg
 )](https://rishavchanda.io
 )
 
-
 <h1 align="center">Hi 👋, I'm pranali waghmare</h1>
 <h3 align="center">A passionate frontend developer from India. love to create new things.</h3>
-<imag align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/dc/7a/2f/dc7a2f909252775b30dd062c33ebbf64.jpg">
-
+<img align="right" alt="gif" width="400" height="300" border-corner-shape: bevel ; src="https://img.myloview.com/murals/business-woman-with-dark-hair-working-on-laptop-at-her-office-desk-office-workplace-with-laptop-young-woman-designer-and-developer-programmer-and-freelancer-concept-isolated-on-white-background-400-137827735.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranali2624&label=Profile%20views&color=0e75b6&style=flat" alt="pranali2624" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pranali2624" target="blank"><img src="https://img.shields.io/twitter/follow/pranali2624?logo=twitter&style=for-the-badge" alt="pranali2624" /></a> </p>
